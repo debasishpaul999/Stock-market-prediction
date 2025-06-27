@@ -2,7 +2,7 @@
 
 A machine learning-powered web application that predicts future stock trends based on historical data. This project combines deep learning models with a clean Flask interface to provide stock market trend forecasts. Ideal for financial data enthusiasts and beginners learning ML deployment.
 
-![Stock market Prediction Screenshot](static\demo.png)
+![Stock market Prediction Screenshot](static/demo.png)
 
 ---
 
