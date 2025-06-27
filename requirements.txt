@@ -4,3 +4,7 @@ numpy
 matplotlib
 yfinance
 plotly
+keras.models
+flask
+datetime
+sklearn.preprocessing
